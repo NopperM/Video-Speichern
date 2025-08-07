@@ -12,3 +12,7 @@ This project started when:
 - Delayed ALT+F10 (so you can hear the little boopty boop after you say "Video speichern")
 - Custom sounds (add your own audio if you want!)
 - Meme worthy as fuck
+
+# Quick start
+pip install pygame SpeechRecognition pyautogui  
+python Garmin.py
