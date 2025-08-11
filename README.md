@@ -14,5 +14,5 @@ This project started when:
 - Meme worthy as fuck
 
 # Quick start
-pip install pygame SpeechRecognition pyautogui  
+pip install pygame SpeechRecognition pyautogui pyaudio 
 python Garmin.py
